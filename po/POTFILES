@@ -1,0 +1,5 @@
+data/org.gnome.Samplegnome.desktop.in
+data/org.gnome.Samplegnome.appdata.xml.in
+data/org.gnome.Samplegnome.gschema.xml
+src/samplegnome-window.uisrc/main.c
+src/samplegnome-window.c

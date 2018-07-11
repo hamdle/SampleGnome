@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=samplegnome
+Exec=samplegnome
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
